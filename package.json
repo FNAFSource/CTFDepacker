@@ -1,0 +1,21 @@
+{
+  "name": "ctfdepacker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROPHESSOR/CTFDepacker.git"
+  },
+  "author": "PROPHESSOR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PROPHESSOR/CTFDepacker/issues"
+  },
+  "homepage": "https://github.com/PROPHESSOR/CTFDepacker#readme"
+}
